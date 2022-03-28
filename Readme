@@ -1,0 +1,3 @@
+The file run_bwa_mem_A632.sh is the pipeline to map Maize GBS tags onto A632 scaffolds.
+
+The file run_processing.sh is the pipeline to anchor the scaffolds of A632 onto 10 pseudomolecules according to the mapping GBS positions.
